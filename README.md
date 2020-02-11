@@ -1,2 +1,2 @@
 # Evaluacion-PSeInt
-Primera evaluacion, me quedo del corte!
+Primera evaluacion, me quedo de pana!
