@@ -1,2 +1,2 @@
-# Evaluacion-PSeInt
-Primera evaluacion, me quedo de pana!
+# Evaluaciones
+Compilacion de todas las evaluaciones realizadas que me quedan de pana.
